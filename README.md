@@ -1,6 +1,6 @@
-<!-- Sebuah aplikasi yang dapat digunakan sebagai media untuk kegiatan belajar dan mengajar disekolah tingkat SMP/SMA/SMK sederajat atau instansi pendidikan lainnya, dan telah digunakan oleh banyak sekolah - sekolah di Indonesia sejak versi 1.0 dibagikan.
+Sebuah aplikasi yang dapat digunakan sebagai media untuk kegiatan belajar dan mengajar disekolah tingkat SMP/SMA/SMK sederajat atau instansi pendidikan lainnya
 
-Secara umum, aplikasi ini memiliki fitur sebagai berikut:
+Aplikasi ini memiliki fitur sebagai berikut:
 - Pengumuman
 - Pesan antar pengguna
 - Pengolahan data siswa
@@ -19,4 +19,6 @@ Untuk pengguna terbagi menjadi tiga, yaitu:
 Kebutuhan:
 - PHP >= 5.5
 - Mysql
- -->
+- Framework Codeigniter
+
+ 
